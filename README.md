@@ -4,7 +4,7 @@
 
 #### Este es mi perfil de github
 
-#### Los lenguajes que voy a usar son
+#### Los lenguajes que voy a usar son:
 
 >HTML
 
